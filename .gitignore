@@ -1,6 +1,11 @@
 *.class
 *.log
 
+# wdl 
+*.inputs
+cromwell-executions
+cromwell-workflow-logs
+
 # sbt specific
 .cache
 .history
