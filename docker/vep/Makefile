@@ -1,2 +1,2 @@
 build: 
-	docker build -t ben.weisburd/vep:83 .
+	docker build -t weisburd/vep:83 .
